@@ -1,2 +1,3 @@
-# Personal-Browser
-Chrome Personal Browser Using Python And ChatGPT #python #chatgpt 
+# Personal-Notepad
+Personal Notepad Using Python And ChatGPT #python #chatgpt 
+Original video: https://youtu.be/SoCBwMfJPZM
